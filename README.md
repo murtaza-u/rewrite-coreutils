@@ -1,2 +1,1 @@
-# rewrite-coreutils
-Rewriting unix coreutils from scratch
+> Rewriting unix coreutils from scratch one at a time(because it is fun!)
