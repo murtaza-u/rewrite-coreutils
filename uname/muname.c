@@ -11,7 +11,7 @@
 
 int main (int argc, char *argv[]) {
     char ch;
-    int print_mask;
+    int print_mask = 0;
 
     while ((ch = getopt(argc, argv, "asnrvm")) != -1) {
         switch (ch) {
